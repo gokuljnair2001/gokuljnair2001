@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👨‍💻 GitHub Stats
+
+![Gokul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokuljnair2001&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokuljnair2001&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gokuljnair2001&theme=tokyonight)
