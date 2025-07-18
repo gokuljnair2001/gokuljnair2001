@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/gokuljnair2001/gokuljnair2001/blob/output/github-contribution-grid-snake.svg)
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gokuljnair2001&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 💼 Current Role
 Flutter Developer @ Kesans Software Pvt Ltd
