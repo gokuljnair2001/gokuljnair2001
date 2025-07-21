@@ -34,6 +34,6 @@
 
 ### 📫 Reach Me
 
-- ✉️ Email: gokulnandhuse65@example.com  
+- ✉️ Email: gokulnandhuse65@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gokul-j-nair-8b9b4b23a/)
 
