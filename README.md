@@ -5,7 +5,7 @@
 
 
 
-### 👨‍💻 GitHub Stats !
+### 👨‍💻 GitHub Stats !!
 
 ![Gokul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokuljnair2001&show_icons=true&theme=tokyonight)
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 💼 Current Role !
+### 💼 Current Role !!
 **Flutter Developer @ Kesans Software Pvt Ltd**
 
 ---
