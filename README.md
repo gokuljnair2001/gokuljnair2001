@@ -30,9 +30,10 @@
 
 ---
 
-### 🛠️ Activity graph !
+### 🛠️ Activity Graph !
 
-https://github-readme-activity-graph.vercel.app/graph?username=gokuljnair2001&theme=tokyo-night
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gokuljnair2001&theme=tokyo-night)
+
 
 ---
 
