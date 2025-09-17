@@ -1,11 +1,11 @@
-## Hi there Gokul Here !👋😉
+## Hi there Gokul Here !!👋😉
 
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">  
 <br>
 
 
 
-### 👨‍💻 GitHub Stats !
+### 👨‍💻 GitHub Stats !!
 
 ![Gokul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokuljnair2001&show_icons=true&theme=tokyonight)
 
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Tech Stack !
+### 🛠️ Tech Stack !!
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
